@@ -38,6 +38,6 @@ $ python manage.py runserver
 - [x] Create a Restaurant model
 - [x] Run migrations
 - [x] Create a Restaurant serializer
-- [-] Create a Restaurant viewset (WIP)
-- [ ] Create a Restaurant routes
-- [ ] Create a Restaurant model admin
+- [x] Create a Restaurant viewset
+- [x] Create Restaurant routes
+- [x] Create a Restaurant model admin
